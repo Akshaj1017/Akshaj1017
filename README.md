@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akshaj1017
+- 👋 Hi, I’m @Akshaj1017, a masters students in Artificial Intelligence at Utrecht University
 - 👀 I’m interested in Machine Learning and Artificial Inteligence.
 - 🌱 I’m currently learning Data Structure and a beginer in Python.
 - 💞️ I’m looking to collaborate on new github projects to expand my knowldege.
